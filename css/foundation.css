@@ -1479,4 +1479,21 @@ select {
     h2{
         font-size: 1.8em;
     }
+    
+    
+    .photo{
+        width: 7em;
+        height: 7em;
+    }
+}
+
+#bg-texture{
+    position: fixed;
+    background: url(../img/texture.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    opacity: 0.5;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
 }
