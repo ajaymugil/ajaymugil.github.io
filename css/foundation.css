@@ -1465,3 +1465,14 @@ select {
         clear: none; }
     .large-block-grid-12 > li:nth-of-type(12n+1) {
         clear: both; } }
+
+
+
+
+
+
+@media screen and (max-width: 40em){
+    body{
+        font-size: 80%;
+    }
+}
