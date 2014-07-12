@@ -1499,7 +1499,7 @@ select {
     position: fixed;
     background: url(../img/texture.jpg);
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: top center;
     opacity: 0.5;
     height: 100%;
     width: 100%;
